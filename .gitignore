@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Django
+db.sqlite3
+*.log
+media/
+
+# React / Node
+node_modules/
+npm-debug.log
+build/
+dist/
+
+# Extra local files/folders - keep locally, don't upload
+.agent/
+.gemini/
+.gsd/
+scripts/
+docs/
+model_capabilities.yaml
+GSD-STYLE.md
+PROJECT_RULES.md
+doctor_weekly_Schedule.md
+all_used_templates.txt
+
+# System
+.DS_Store
+Thumbs.db
