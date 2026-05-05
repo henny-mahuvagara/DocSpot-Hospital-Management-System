@@ -59,11 +59,7 @@ Below are some key features and UI views of the system:
 
 ### Patient Side
 
-#### Home Page
-
-![Home](screenshots/home.png)
-
-#### Search Doctors
+#### Home
 
 ![Search](screenshots/search.png)
 
@@ -105,7 +101,7 @@ Below are some key features and UI views of the system:
 
 ### Doctor Management
 
-![Doctors](screenshots/doctors.png)
+![Doctors](screenshots/admin-doctors.png)
 
 ### Appointment Management
 
